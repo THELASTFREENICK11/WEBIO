@@ -211,7 +211,7 @@
 .footer {
     padding-top: 310px;
     height: 1000px;
-    background: url(bg.jpg) no-repeat; 
+    background: #4D533C url(./Bg.jpg) no-repeat; 
     background-size: cover ;
     background-position: center;
     width: 100%;
